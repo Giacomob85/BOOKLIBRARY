@@ -1,0 +1,26 @@
+.main-footer {
+	color: white;
+	background-color: lightblue;
+	padding: 50px 0;
+	background-image: url(books-1281581_1280.jpg);
+	height: 150vh;
+}
+.main-footer .row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	overflow: hidden;
+}
+
+
+
+@media (max-width: 768px) {  
+	.main-footer .row {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		align-content: center;
+	}
+}

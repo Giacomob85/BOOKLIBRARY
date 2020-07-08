@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b10d9964.chunk.css",
+    "main.js": "/static/js/main.3d58baa7.chunk.js",
+    "main.js.map": "/static/js/main.3d58baa7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d3338e4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d3338e4.js.map",
+    "static/css/2.3a221eca.chunk.css": "/static/css/2.3a221eca.chunk.css",
+    "static/js/2.f955162b.chunk.js": "/static/js/2.f955162b.chunk.js",
+    "static/js/2.f955162b.chunk.js.map": "/static/js/2.f955162b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5040f797c5c98b84b41be16bc039c175.js": "/precache-manifest.5040f797c5c98b84b41be16bc039c175.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3a221eca.chunk.css.map": "/static/css/2.3a221eca.chunk.css.map",
+    "static/css/main.b10d9964.chunk.css.map": "/static/css/main.b10d9964.chunk.css.map",
+    "static/js/2.f955162b.chunk.js.LICENSE.txt": "/static/js/2.f955162b.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/static/media/books-1281581_1280.756b6e26.jpg",
+    "static/media/index.css": "/static/media/old-books-436498_1920.5eb7e47f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d3338e4.js",
+    "static/css/2.3a221eca.chunk.css",
+    "static/js/2.f955162b.chunk.js",
+    "static/css/main.b10d9964.chunk.css",
+    "static/js/main.3d58baa7.chunk.js"
+  ]
+}

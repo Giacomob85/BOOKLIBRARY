@@ -1,0 +1,59 @@
+body {
+	overflow-x: hidden;
+	background-color:white;
+}
+.main-image {
+  background-image: url(old-books-436498_1920.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  background-color:burlywood;
+  width: 100vw;
+  height: 85vh;
+}
+.text__style {
+	color:white;
+	font-weight: 300;
+	font-size: 100px;
+}
+.text__style i {
+	color: white;
+	padding-right: 20px;
+	font-size: 85px;
+}
+.input__style:focus,
+.input__style:hover,
+.input__style:visited,
+.input__style:active {
+	outline: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.page-container {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+.main-footer {
+	flex:1;
+}
+
+@media (max-width: 768px) { 
+	.text__style {
+		font-size: 70px;
+	}
+	.text__style i {
+		font-size: 65px;
+	}
+}
+
+
+@media (max-width: 425px) {  
+	.text__style {
+		font-size: 55px;
+	}
+	.text__style i {
+		font-size: 45px;
+	}
+}
